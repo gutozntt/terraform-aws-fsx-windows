@@ -24,6 +24,6 @@ Use this module to create a FSx for Windows in AWS.
 
 | Name | Description |
 |------|-------------|
-| arn | n/a |
-| dns\_name | n/a |
-| id | n/a |
+| arn | Amazon Resource Name of the file system. |
+| dns\_name | DNS name for the file system, e.g. fs-12345678.corp.example.com (domain name matching the Active Directory domain name) |
+| id | Identifier of the file system, e.g. fs-12345678 |
